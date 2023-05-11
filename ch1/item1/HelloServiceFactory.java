@@ -33,10 +33,10 @@ public class HelloServiceFactory {
         HelloService helloService2 = new ChineseHelloService();
         System.out.println(helloService.hello());
 
-//        Class<?> aClass = Class.forName("me.whiteship.hello.ChineseHelloService");
-//        Constructor<?> constructor = aClass.getConstructor();
-//        HelloService helloService = (HelloService) constructor.newInstance();
-//        System.out.println(helloService.hello());
+        Class<?> aClass = Class.forName("com.study.effectivejava.ch1.item1.ChineseHelloService");
+        Constructor<?> constructor = aClass.getConstructor();
+        HelloService helloServiceReflection = (HelloService) constructor.newInstance();
+        System.out.println(helloServiceReflection.hello());
     }
 
 }
