@@ -19,3 +19,7 @@
 - [Item 12. toString을 항상 재정의하라](src/main/java/com/study/effectivejava/ch2/item12/item12.md)
 - [Item 13. clone 재정의는 주의해서 진행하라](src/main/java/com/study/effectivejava/ch2/item13/item13.md)
 - [Item 14. Comparable을 구현할지 고민하라](src/main/java/com/study/effectivejava/ch2/item14/item14.md)
+
+## Chapter 4
+
+- [Item 15. 클래스와 멤버의 접근 권한을 최소화 하라](src/main/java/com/study/effectivejava/ch4/item15/item15.md)
