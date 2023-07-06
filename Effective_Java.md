@@ -33,3 +33,15 @@
 - [Item 23. 태그 달린 클래스보다는 클래스 계층 구조를 활용하라](src/main/java/com/study/effectivejava/ch4/item23/item23.md)
 - [Item 24. 멤버 클래스는 되도록 static 으로 만들라](src/main/java/com/study/effectivejava/ch4/item24/item24.md)
 - [Item 25. 클래스와 멤버의 접근 권한을 최소화 하라](src/main/java/com/study/effectivejava/ch4/item25/item25.md)
+
+## Chapter 5
+
+- [Item 26. Raw 타입은 사용하지 말라](src/main/java/com/study/effectivejava/ch5/item26/item26.md)
+- [Item 27. 비검사 경고를 제거하라](src/main/java/com/study/effectivejava/ch5/item27/item27.md)
+- [Item 28. 배열보다는 리스트를 사용하라](src/main/java/com/study/effectivejava/ch5/item28/item28.md)
+- [Item 29. 이왕이면 제네릭 타입으로 만들어라](src/main/java/com/study/effectivejava/ch5/item29/item29.md)
+- [Item 30. 이왕이면 제네릭 메서드로 만들어라](src/main/java/com/study/effectivejava/ch5/item30/item30.md)
+- [Item 31. 한정적 와일드카드를 사용해 API 유연성을 높여라](src/main/java/com/study/effectivejava/ch5/item31/item31.md)
+- [Item 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라](src/main/java/com/study/effectivejava/ch5/item32/item32.md)
+- [Item 33. 타입 안전 이종 컨테이너를 고려하라](src/main/java/com/study/effectivejava/ch5/item33/item33.md)
+- 
